@@ -1,1 +1,5 @@
 # La-Seyne-sur-Mer-France
+
+Welcome to La Seyne-sur-Mer, a city in the south of France on the Mediterranean coast. The Provençal hills offer spectacular panoramas, the majestic harbor of Toulon stretches like a natural jewel, and the ancient shipyards narrate the maritime history of the region. Fertile lands abound, providing diverse agricultural opportunities, while the forests add natural richness to this Mediterranean landscape. In the midst of it all, Toulon stands as the central point of the department, anchored in the history of the French Riviera. Enjoy your exploration.
+
+Bienvenue à La Seyne-sur-Mer, une ville du sud de la France en bord de mer Méditerranée. Les collines provençales offrent des panoramas spectaculaires, la majestueuse rade de Toulon s'étend comme un joyau naturel, et les anciens chantiers navals racontent l'histoire maritime de la région. Les terres fertiles abondent, offrant des opportunités agricoles variées, tandis que les forêts ajoutent une richesse naturelle à ce paysage méditerranéen. Au cœur de tout cela, Toulon se tient comme le point central du département, ancrée dans l'histoire de la Côte d'Azur. Bon jeux.
