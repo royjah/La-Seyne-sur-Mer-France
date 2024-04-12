@@ -16,6 +16,7 @@ Bon jeux.
 
 Toutes donations est la bienvenue.
 
+https://paypal.me/Royjah83?country.x=FR&locale.x=fr_FR
 https://discord.gg/HTav7ARPs2
 https://discord.com/channels/1024242828114673724/1219579961162203147/threads/1228103109151166494
 https://mods.paradoxplaza.com/mods/78369/Any
